@@ -1,0 +1,21 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Autoprefixer",
+		"Dayle Rees Color Schemes",
+		"Emmet",
+		"Emmet Css Snippets",
+		"HTML Mustache",
+		"HTML5",
+		"HTMLAttributes",
+		"HTMLBeautify",
+		"Origami",
+		"Package Control",
+		"Path Tools"
+	]
+}

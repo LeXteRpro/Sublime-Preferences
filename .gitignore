@@ -1,0 +1,12 @@
+*.last-run
+*.ca-list
+*.ca-bundle
+*.merged-ca-bundle
+*.user-ca-bundle
+*.system-ca-bundle
+*.cache
+
+*.cache/
+*.ca-certs/
+
+*.orig
